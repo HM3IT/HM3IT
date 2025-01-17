@@ -35,10 +35,13 @@ Hello! I'm Hein Min Min Maw, a passionate Fullstack Developer✨ who loves build
 
 ---
 
+
 ## GitHub Stats
 ![](https://komarev.com/ghpvc/?username=HM3IT)
 
-![HM3IT's GitHub stats](https://github-stats-pied.vercel.app/api?username=HM3IT&show_icons=true&theme=gruvbox)
+![HM3IT's GitHub stats](https://github-stats-pied.vercel.app/api?username=HM3IT&show_icons=true&theme=tokyonight&hide=prs&show=prs_merged_percentage)
+
+[![Top Langs](https://github-stats-pied.vercel.app/api/top-langs/?username=HM3IT&layout=donut&theme=tokyonight)](https://github.com/HM3IT/github-readme-stats)
  
 ---
  
