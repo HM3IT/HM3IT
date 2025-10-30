@@ -1,6 +1,6 @@
 # Hein Min Min Maw
 
-Hello! I'm [Hein Min Min Maw](https://hm3it.github.io/), a passionate Fullstack Developer✨ who loves building dynamic and scalable web applications. I enjoy taking ideas and turning them into real, working solutions with a bit of code and a focus on making things work smoothly. Welcome to my GitHub profile! 🚀
+Hello! I'm [Hein Min Min Maw](https://hm3it.github.io/), a Full-Stack Developer ☝️🤓 who loves building dynamic and scalable web apps powered by AI and LLMs. I enjoy exploring new technologies and turning ideas into real, working solutions — with a touch of Magic✨ and a focus on making everything smooth, efficient, and easy to maintain 👌. Thanks for stopping by my GitHub! 🚀
 
 ---
 
